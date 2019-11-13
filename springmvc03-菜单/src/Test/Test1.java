@@ -16,6 +16,8 @@ public class Test1 {
 		String[] name = ac.getBeanDefinitionNames();
 		for (String s : name) {
 			System.out.println(s);
+			
+			//这是新加的注释，为了检验是否能上传到github
 		}
 	}
 
